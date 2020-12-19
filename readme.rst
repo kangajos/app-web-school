@@ -1,0 +1,2 @@
+- import database yg ada di folder dump_database
+- di buat oleh ajos (aguss6460@gmail.com)
